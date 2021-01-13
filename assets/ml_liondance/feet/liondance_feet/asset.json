@@ -1,20 +1,18 @@
 {
-    "name": "chou_hat",
+    "name": "liondance_feet",
     "i18n": {
-      "en": "Peking Opera Chou Hat",
-      "es": "Sombrero Chou de la Ópera de Pekín"
+      "en": "liondance Shoes",
+      "es": "Zapatos Chou de la Ópera de Pekín"
     },
     "tags": [
-      "hat",
-      "chinese",
+      "shoes",
+      "peking opera",
       "chou",
-      "peking opera"
+      "chinese"
      ],
-    "category": "hat",
+    "category": "feet",
     "replaces": [
-      "hair",
-      "helmet",
-      "hat"
+      "feet"
   
      ],
      "hides": [
@@ -24,13 +22,13 @@
     "main": [
   {
   "type": "BaseMale", 
-  "model": "M_chou_hat.glb", 
+  "model": "M_liondance_feet.glb", 
   "overrideReplaces": [
      ],
      "overrideHides": [
      ]
   },
-  {"type": "BaseFemale", "model": "M_chou_hat.glb"}
+  {"type": "BaseFemale", "model": "M_liondance_feet.glb"}
     ],
     "rarity": "legendary",
     "description": "Peking Opera Character-Chou"

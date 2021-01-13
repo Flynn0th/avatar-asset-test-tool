@@ -1,7 +1,7 @@
 {
-    "name": "chou_lower_body",
+    "name": "liondance_lower_body",
     "i18n": {
-      "en": "Peking Opera Chou Pants",
+      "en": "liondance Pants",
       "es": "Pantalones Chou de la Ópera de Pekín"
     },
     "tags": [
@@ -22,13 +22,13 @@
     "main": [
   {
   "type": "BaseMale", 
-  "model": "M_chou_pants.glb", 
+  "model": "M_liondance_pants.glb", 
   "overrideReplaces": [
      ],
      "overrideHides": [
      ]
   },
-  {"type": "BaseFemale", "model": "M_chou_pants.glb"}
+  {"type": "BaseFemale", "model": "M_liondance_pants.glb"}
     ],
     "rarity": "legendary",
     "description": "Peking Opera Character-Chou"

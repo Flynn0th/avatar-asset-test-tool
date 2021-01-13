@@ -1,7 +1,7 @@
 {
-    "name": "chou_upper_body",
+    "name": "liondance_upper_body",
     "i18n": {
-      "en": "Peking Opera Chou Coat",
+      "en": "liondance Coat",
       "es": "Abrigo Chou de la Ópera de Pekín"
     },
     "tags": [
@@ -24,13 +24,13 @@
     "main": [
   {
   "type": "BaseMale", 
-  "model": "M_chou_coat.glb", 
+  "model": "M_liondance_coat.glb", 
   "overrideReplaces": [
      ],
      "overrideHides": [
      ]
   },
-  {"type": "BaseFemale", "model": "M_chou_coat.glb"}
+  {"type": "BaseFemale", "model": "M_liondance_coat.glb"}
     ],
     "rarity": "legendary",
     "description": "Peking Opera Character-Chou"
