@@ -1,14 +1,15 @@
 {
-    "name": "liondance_hat",
+    "name": "lion_dance_hat",
     "i18n": {
-      "en": "liondance Hat",
-      "es": "Sombrero Chou de la Ópera de Pekín"
+      "en": "Lion Dance Hat",
+      "es": "Sombrero de danza del león"
     },
     "tags": [
       "hat",
       "chinese",
-      "chou",
-      "peking opera"
+      "Spring Festival",
+      "Dragon City",
+      "lion dance"
      ],
     "category": "hat",
     "replaces": [
@@ -24,14 +25,14 @@
     "main": [
   {
   "type": "BaseMale", 
-  "model": "M_liondance_hat.glb", 
+  "model": "M_lion_dance_hat.glb", 
   "overrideReplaces": [
      ],
      "overrideHides": [
      ]
   },
-  {"type": "BaseFemale", "model": "M_liondance_hat.glb"}
+  {"type": "BaseFemale", "model": "M_lion_dance_hat.glb"}
     ],
     "rarity": "legendary",
-    "description": "Peking Opera Character-Chou"
+    "description": "Dragon City 2021 Spring Festival Souvenirs"
   }
